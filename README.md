@@ -26,7 +26,7 @@ O sistema utiliza sensores de nível (simulados no Tinkercad) para medir a altur
 2. Clique em "Join Now" ou "Sign In".
 3. Abra o projeto pelo link direto abaixo.
 
-🔗 **[Clique aqui para acessar o projeto no Tinkercad]((https://www.tinkercad.com/things/0fZ1vEnax9W-medidor-de-nivel-de-agua))**
+🔗 **[Clique aqui para acessar o projeto no Tinkercad](https://www.tinkercad.com/things/0fZ1vEnax9W-medidor-de-nivel-de-agua)**
 
 > 📌 **IMPORTANTE:** É necessário estar logado para visualizar o projeto no modo simulação.
 
