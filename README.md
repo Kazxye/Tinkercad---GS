@@ -26,17 +26,10 @@ O sistema utiliza sensores de nível (simulados no Tinkercad) para medir a altur
 2. Clique em "Join Now" ou "Sign In".
 3. Abra o projeto pelo link direto abaixo.
 
-🔗 **[Clique aqui para acessar o projeto no Tinkercad](COLE_AQUI_O_LINK_DO_SEU_PROJETO)**
+🔗 **[Clique aqui para acessar o projeto no Tinkercad]((https://www.tinkercad.com/things/0fZ1vEnax9W-medidor-de-nivel-de-agua))**
 
 > 📌 **IMPORTANTE:** É necessário estar logado para visualizar o projeto no modo simulação.
 
-## 🎥 Vídeo Demonstrativo
-
-Assista a demonstração completa do funcionamento do sistema:
-
-📺 **[Clique aqui para assistir ao vídeo](COLE_AQUI_O_LINK_DO_SEU_VÍDEO_NO_YOUTUBE_OU_DRIVE)**
-
----
 
 ## 💻 Código Fonte
 
@@ -47,7 +40,6 @@ O código foi desenvolvido com foco em clareza e boas práticas, contendo:
 - Identação adequada.
 - Estrutura lógica bem definida e modular.
 
-O código completo está disponível no arquivo [`codigo.ino`](COLOQUE_O_NOME_DO_ARQUIVO_AQUI_SE_PRECISAR.md).
 
 ---
 
